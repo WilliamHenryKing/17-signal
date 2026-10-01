@@ -1,0 +1,218 @@
+{
+  "base": "http://127.0.0.1:4627",
+  "browser": "154.0.8037.58",
+  "checks": [
+    {
+      "name": "title and single headline",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1920x1080",
+      "passed": true
+    },
+    {
+      "name": "headline visible 1920x1080",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1440x900",
+      "passed": true
+    },
+    {
+      "name": "headline visible 1440x900",
+      "passed": true
+    },
+    {
+      "name": "no overflow 768x1024",
+      "passed": true
+    },
+    {
+      "name": "headline visible 768x1024",
+      "passed": true
+    },
+    {
+      "name": "no overflow 390x844",
+      "passed": true
+    },
+    {
+      "name": "headline visible 390x844",
+      "passed": true
+    },
+    {
+      "name": "no overflow 320x740",
+      "passed": true
+    },
+    {
+      "name": "headline visible 320x740",
+      "passed": true
+    },
+    {
+      "name": "no overflow 844x390",
+      "passed": true
+    },
+    {
+      "name": "headline visible 844x390",
+      "passed": true
+    },
+    {
+      "name": "motion can be disabled",
+      "passed": true
+    },
+    {
+      "name": "replay disabled while motion off",
+      "passed": true
+    },
+    {
+      "name": "select Public affairs",
+      "passed": true
+    },
+    {
+      "name": "content Public affairs",
+      "passed": true
+    },
+    {
+      "name": "select Policy",
+      "passed": true
+    },
+    {
+      "name": "content Policy",
+      "passed": true
+    },
+    {
+      "name": "select Communications",
+      "passed": true
+    },
+    {
+      "name": "content Communications",
+      "passed": true
+    },
+    {
+      "name": "select Membership",
+      "passed": true
+    },
+    {
+      "name": "content Membership",
+      "passed": true
+    },
+    {
+      "name": "select Events",
+      "passed": true
+    },
+    {
+      "name": "content Events",
+      "passed": true
+    },
+    {
+      "name": "ArrowRight changes and focuses tab",
+      "passed": true
+    },
+    {
+      "name": "End selects last tab",
+      "passed": true
+    },
+    {
+      "name": "Home selects first tab",
+      "passed": true
+    },
+    {
+      "name": "ArrowLeft wraps",
+      "passed": true
+    },
+    {
+      "name": "tab panel is keyboard reachable",
+      "passed": true
+    },
+    {
+      "name": "first editorial note opens",
+      "passed": true
+    },
+    {
+      "name": "dialogAccessibility: no detected WCAG A/AA violations",
+      "passed": true
+    },
+    {
+      "name": "Escape restores trigger focus",
+      "passed": true
+    },
+    {
+      "name": "second note distinct",
+      "passed": true
+    },
+    {
+      "name": "empty plan blocked",
+      "passed": true
+    },
+    {
+      "name": "whitespace plan blocked",
+      "passed": true
+    },
+    {
+      "name": "plan reflects selections",
+      "passed": true
+    },
+    {
+      "name": "clipboard has plan",
+      "passed": true
+    },
+    {
+      "name": "download works",
+      "passed": true
+    },
+    {
+      "name": "pageAccessibility: no detected WCAG A/AA violations",
+      "passed": true
+    },
+    {
+      "name": "phone menu opens",
+      "passed": true
+    },
+    {
+      "name": "phone navigation works",
+      "passed": true
+    },
+    {
+      "name": "phone menu closes",
+      "passed": true
+    },
+    {
+      "name": "phone capability selection",
+      "passed": true
+    },
+    {
+      "name": "phoneAccessibility: no detected WCAG A/AA violations",
+      "passed": true
+    },
+    {
+      "name": "system reduced motion respected",
+      "passed": true
+    },
+    {
+      "name": "system reduced motion disables replay",
+      "passed": true
+    },
+    {
+      "name": "live media preference change",
+      "passed": true
+    },
+    {
+      "name": "standalone hero loads",
+      "passed": true
+    },
+    {
+      "name": "standalone excludes homepage",
+      "passed": true
+    },
+    {
+      "name": "no-JavaScript page readable",
+      "passed": true
+    },
+    {
+      "name": "no runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "dialogAccessibility": [],
+  "pageAccessibility": [],
+  "phoneAccessibility": []
+}

@@ -1,0 +1,73 @@
+{
+  "assets": [
+    {
+      "output": "public/images/london.webp",
+      "download": "https://images.unsplash.com/photo-1758833600766-d639b70e5f46?fit=crop&w=1100&q=78&fm=webp",
+      "retrieved": "2026-10-01",
+      "bytes": 160680,
+      "sha256": "ef91b6771b5c10333ab388e443726afc33c33ada476d62d4f3273950a4e4c2a1",
+      "author": "Maik Winnecke",
+      "source": "https://unsplash.com/photos/the-houses-of-parliament-and-big-ben-in-london-v3nbIVKiETU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "processing": "CDN resize 1100px, WebP quality 78; monochrome CSS crop",
+      "localCopyFrom": "Verified project 16 assets; independent physical copy, 1 October 2026"
+    },
+    {
+      "output": "public/images/forum.webp",
+      "download": "https://images.unsplash.com/photo-1773829020694-413e879d2957?fit=crop&w=1000&q=76&fm=webp",
+      "retrieved": "2026-10-01",
+      "bytes": 171888,
+      "sha256": "ae5e5283381d41be996fda4c822d66fffcd21792a89a1b18f09237b652b03b59",
+      "author": "Marwen Larafa",
+      "source": "https://unsplash.com/photos/speaker-presenting-to-a-large-audience-in-an-auditorium-qzO9a6oQ8AM",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "processing": "CDN resize 1000px, WebP quality 76",
+      "localCopyFrom": "Verified project 16 assets; independent physical copy, 1 October 2026"
+    },
+    {
+      "output": "public/fonts/manrope-latin.woff2",
+      "download": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "retrieved": "2026-10-01",
+      "bytes": 24836,
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "author": "The Manrope Project Authors",
+      "source": "https://github.com/google/fonts/tree/main/ofl/manrope",
+      "license": "SIL OFL 1.1",
+      "processing": "Unmodified Google Fonts Latin webfont",
+      "localCopyFrom": "Verified project 16 assets; independent physical copy, 1 October 2026"
+    },
+    {
+      "output": "public/fonts/OFL-Manrope.txt",
+      "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "retrieved": "2026-10-01",
+      "bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "license": "SIL OFL 1.1",
+      "localCopyFrom": "Verified project 16 assets; independent physical copy, 1 October 2026"
+    },
+    {
+      "output": "public/fonts/barlow-condensed-latin.woff2",
+      "download": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+      "author": "The Barlow Project Authors",
+      "license": "SIL OFL 1.1",
+      "retrieved": "2026-10-01",
+      "bytes": 22444,
+      "sha256": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+      "processing": "Unmodified Latin webfont / original licence notice"
+    },
+    {
+      "output": "public/fonts/OFL-Barlow.txt",
+      "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+      "author": "The Barlow Project Authors",
+      "license": "SIL OFL 1.1",
+      "retrieved": "2026-10-01",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+      "processing": "Unmodified Latin webfont / original licence notice"
+    }
+  ]
+}
