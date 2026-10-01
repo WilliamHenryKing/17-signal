@@ -1,36 +1,36 @@
 {
   "base": "https://17-signal.williamking.workers.dev",
-  "checkedAt": "2026-10-01T10:48:53.585Z",
+  "checkedAt": "2026-10-01T12:01:35.452Z",
   "files": [
     {
       "path": "/404.html",
       "status": 200,
       "matched": true,
-      "bytes": 366
+      "bytes": 359
     },
     {
-      "path": "/assets/hero-DsanKwFY.css",
+      "path": "/assets/hero-9WqwaToW.css",
       "status": 200,
       "matched": true,
       "bytes": 8347
     },
     {
-      "path": "/assets/hero-W67YXMcC.js",
+      "path": "/assets/hero-ByVp2frv.js",
       "status": 200,
       "matched": true,
       "bytes": 145
     },
     {
-      "path": "/assets/main-CnE7LDsm.js",
-      "status": 200,
-      "matched": true,
-      "bytes": 239946
-    },
-    {
-      "path": "/assets/main-WEP4N5It.css",
+      "path": "/assets/main-D64jT48a.css",
       "status": 200,
       "matched": true,
       "bytes": 24270
+    },
+    {
+      "path": "/assets/main-DRkC0lbw.js",
+      "status": 200,
+      "matched": true,
+      "bytes": 239819
     },
     {
       "path": "/assets/motion-Cka3ftY9.js",
@@ -72,7 +72,7 @@
       "path": "/hero.html",
       "status": 200,
       "matched": true,
-      "bytes": 9769
+      "bytes": 9730
     },
     {
       "path": "/images/forum.webp",
@@ -90,7 +90,7 @@
       "path": "/index.html",
       "status": 200,
       "matched": true,
-      "bytes": 19878
+      "bytes": 19832
     },
     {
       "path": "/release.json",
@@ -102,17 +102,17 @@
       "path": "/social.jpg",
       "status": 200,
       "matched": true,
-      "bytes": 123826
+      "bytes": 123412
     }
   ],
   "errors": [],
   "notFoundStatus": 404,
   "release": {
-    "sourceCommit": "25f1911a080e3b25faeeba592d2053e34d1dbefd",
-    "builtAt": "2026-10-01T10:45:30.894Z"
+    "sourceCommit": "9bf0f7e675bbbe297cd48a001f9ef60b8c3bdb24",
+    "builtAt": "2026-10-01T12:00:48.707Z"
   },
   "desktop": {
-    "title": "Chamber Group — Signal concept",
+    "title": "Signal — Independent design concept",
     "overflow": false,
     "resources": [
       {
@@ -121,60 +121,9 @@
         "transfer": 22744
       },
       {
-        "name": "/assets/main-CnE7LDsm.js",
-        "encoded": 76870,
-        "transfer": 77170
-      },
-      {
-        "name": "/assets/motion-Cka3ftY9.js",
-        "encoded": 47454,
-        "transfer": 47754
-      },
-      {
-        "name": "/assets/main-WEP4N5It.css",
-        "encoded": 6640,
-        "transfer": 6940
-      },
-      {
-        "name": "/images/forum.webp",
-        "encoded": 171888,
-        "transfer": 172188
-      },
-      {
-        "name": "/fonts/manrope-latin.woff2",
-        "encoded": 24836,
-        "transfer": 25136
-      },
-      {
-        "name": "/favicon.svg",
-        "encoded": 176,
-        "transfer": 476
-      }
-    ],
-    "paint": [
-      {
-        "name": "first-paint",
-        "startTime": 960
-      },
-      {
-        "name": "first-contentful-paint",
-        "startTime": 960
-      }
-    ]
-  },
-  "phone": {
-    "title": "Chamber Group — Signal concept",
-    "overflow": false,
-    "resources": [
-      {
-        "name": "/fonts/barlow-condensed-latin.woff2",
-        "encoded": 22444,
-        "transfer": 22744
-      },
-      {
-        "name": "/assets/main-CnE7LDsm.js",
-        "encoded": 76720,
-        "transfer": 77020
+        "name": "/assets/main-DRkC0lbw.js",
+        "encoded": 76696,
+        "transfer": 76996
       },
       {
         "name": "/assets/motion-Cka3ftY9.js",
@@ -182,9 +131,9 @@
         "transfer": 47696
       },
       {
-        "name": "/assets/main-WEP4N5It.css",
-        "encoded": 6645,
-        "transfer": 6945
+        "name": "/assets/main-D64jT48a.css",
+        "encoded": 6641,
+        "transfer": 6941
       },
       {
         "name": "/images/forum.webp",
@@ -205,11 +154,62 @@
     "paint": [
       {
         "name": "first-paint",
-        "startTime": 552
+        "startTime": 652
       },
       {
         "name": "first-contentful-paint",
-        "startTime": 552
+        "startTime": 652
+      }
+    ]
+  },
+  "phone": {
+    "title": "Signal — Independent design concept",
+    "overflow": false,
+    "resources": [
+      {
+        "name": "/fonts/barlow-condensed-latin.woff2",
+        "encoded": 22444,
+        "transfer": 22744
+      },
+      {
+        "name": "/assets/main-DRkC0lbw.js",
+        "encoded": 76684,
+        "transfer": 76984
+      },
+      {
+        "name": "/assets/motion-Cka3ftY9.js",
+        "encoded": 47396,
+        "transfer": 47696
+      },
+      {
+        "name": "/assets/main-D64jT48a.css",
+        "encoded": 6641,
+        "transfer": 6941
+      },
+      {
+        "name": "/images/forum.webp",
+        "encoded": 171888,
+        "transfer": 172188
+      },
+      {
+        "name": "/fonts/manrope-latin.woff2",
+        "encoded": 24836,
+        "transfer": 25136
+      },
+      {
+        "name": "/favicon.svg",
+        "encoded": 176,
+        "transfer": 476
+      }
+    ],
+    "paint": [
+      {
+        "name": "first-paint",
+        "startTime": 332
+      },
+      {
+        "name": "first-contentful-paint",
+        "startTime": 332
       }
     ]
   }

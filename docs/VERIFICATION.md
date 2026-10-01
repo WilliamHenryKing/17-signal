@@ -1,6 +1,6 @@
 # Verification — Signal
 
-Naming refinement, 1 October 2026: Signal now owns the wordmarks, metadata, accessible names, brief exports and concept copy. The same browser journey and rendered media are regenerated for the renamed build; the live receipt identifies the resulting release.
+Naming refinement, 1 October 2026: Signal now owns the wordmarks, metadata, accessible names, brief exports and concept copy. All 52 browser checks passed again, with no runtime errors or axe violations in the three recorded states. README screenshots and the social preview were regenerated and visually inspected; the live receipt identifies the resulting release.
 
 1 October 2026. Solo implementation and self-review. [Automated browser receipt](browser-report.json). Chrome 154.0.8037.58, Playwright 1.63.0, axe-core 4.13.0. Every named check in the receipt passes, with no runtime errors and no detected WCAG A/AA violations in the recorded full-page, phone and dialog states.
 

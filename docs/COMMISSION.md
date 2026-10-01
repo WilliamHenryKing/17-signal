@@ -37,11 +37,11 @@ Self-review is not client approval. Browser emulation is not a physical phone te
 
 Both concepts are complete, committed, pushed to public GitHub repositories and live on Cloudflare. Common Ground completed its local and live checks before Signal creative production began. No subagents were used.
 
-- **16 COMMON GROUND:** https://16-common-ground.williamking.workers.dev — application `71a73fad0e6f60f81c3803c11f61caae0c171443`, Cloudflare version `b2ecce47-3c29-43ea-9e07-4012d1fdceae`; 47 browser checks, 15 public file hashes matched.
-- **17 SIGNAL:** https://17-signal.williamking.workers.dev — application `25f1911a080e3b25faeeba592d2053e34d1dbefd`, Cloudflare version `9ced8745-638b-40b3-b87a-57acfd995410`; 52 browser checks, 17 public file hashes matched.
+- **16 COMMON GROUND:** https://16-common-ground.williamking.workers.dev — application `ffc92bf34ab654b06404cd9a540d7d9c3a718dc2`, Cloudflare version `e8447904-9919-4453-b14a-8c60a32b66ce`; 47 browser checks, 15 public file hashes matched.
+- **17 SIGNAL:** https://17-signal.williamking.workers.dev — application `9bf0f7e675bbbe297cd48a001f9ef60b8c3bdb24`, Cloudflare version `a5eefdc9-e3db-4454-b1cc-353c48bbd91a`; 52 browser checks, 17 public file hashes matched.
 
 Each has zero axe violations in three recorded states, a standalone hero, correct live HTTP behavior and desktop/phone verification. Both were visually self-reviewed and revised. User/client approval is not claimed. See the shared delivery record and each public repository's `docs/RELEASE.md`, `docs/VERIFICATION.md` and `HERO-INTEGRATION.md`. Documentation commits after the application revisions preserve the exact deployed release identity.
 
 ## Naming refinement — 1 October 2026
 
-The user requires independent naming throughout: Common Ground and Signal. Update page identity, metadata, accessible names, brief exports, credits, repository descriptions and rendered media. Recheck each site and publish sequentially before adding the two live links to the existing Upwork proposal.
+The user requires independent naming throughout: Common Ground and Signal. Completed: page identity, metadata, accessible names, brief exports, credits, repository descriptions and rendered media now use the independent brands. All 99 browser checks passed again; the new live output hashes match the builds. Both release receipts identify the renamed application revisions.
