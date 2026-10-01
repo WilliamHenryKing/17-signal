@@ -1,6 +1,6 @@
 # Integrating the Signal hero
 
-Signal is an independent Chamber Group concept using a provisional identity. Replace branding, copy and imagery with approved assets before using it on a real organisation's website.
+Signal is an independent corporate website concept using a fictional brand. Replace branding, copy and imagery with approved assets before using it on a real organisation's website.
 
 ## Plain HTML / CMS
 

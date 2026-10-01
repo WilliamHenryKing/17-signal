@@ -77,9 +77,9 @@ export function App() {
                 <br />A clearer way forward.
               </p>
               <p>
-                Chamber Group brings public affairs, policy, communications, membership and events
-                into one connected conversation. We see how the pieces fit together — and where they
-                could take you.
+                Signal brings public affairs, policy, communications, membership and events into one
+                connected conversation. We see how the pieces fit together — and where they could
+                take you.
               </p>
               <a className="sg-underlined" href="#capabilities">
                 FIND YOUR CONNECTION <Arrow />
@@ -156,7 +156,7 @@ export function App() {
               <span className="sg-panel-verb">{capability.verb}</span>
             </div>
             <div className="sg-panel-content">
-              <p className="sg-micro">{capability.name.toUpperCase()} / CHAMBER GROUP</p>
+              <p className="sg-micro">{capability.name.toUpperCase()} / SIGNAL</p>
               <h3>{capability.headline}</h3>
               <p>{capability.copy}</p>
               <ul>
@@ -265,7 +265,7 @@ export function App() {
                     return;
                   }
                   setBrief(
-                    `CHAMBER GROUP — SIGNAL\nIndependent concept: conversation plan\n\nConnection: ${data.get("connection")}\nYour next move: ${goal}\nHorizon: ${data.get("horizon")}\n\nCreated locally. Nothing has been submitted.`,
+                    `SIGNAL\nIndependent concept: conversation plan\n\nConnection: ${data.get("connection")}\nYour next move: ${goal}\nHorizon: ${data.get("horizon")}\n\nCreated locally. Nothing has been submitted.`,
                   );
                   setStatus("");
                 }}
@@ -337,11 +337,7 @@ export function App() {
         <div className="sg-footer-top">
           <a className="sg-brand" href="#top">
             <SignalMark />
-            <span>
-              CHAMBER
-              <br />
-              GROUP
-            </span>
+            <span>SIGNAL</span>
           </a>
           <p>
             MANY VOICES.
@@ -359,7 +355,7 @@ export function App() {
           <p>
             Independent design concept by William King.
             <br />
-            Not commissioned by or affiliated with Chamber Group.
+            Fictional brand. Independent portfolio work.
           </p>
           <div>
             <a href="/hero.html">STANDALONE HERO ↗</a>
@@ -403,9 +399,9 @@ export function App() {
                 BEHIND THE SIGNAL.
               </h2>
               <p>
-                This independent portfolio concept responds to the supplied Chamber Group
-                animated-hero brief. All branding, artwork and copy are provisional; no official
-                brand kit was supplied. It is not the organisation’s official website.
+                Signal is a fictional corporate brand created to demonstrate an expressive animated
+                hero and complete homepage. The identity, artwork and copy are original portfolio
+                material, not commissioned client work.
               </p>
               <p>
                 Original design and SVG artwork by William King. Manrope and Barlow Condensed are

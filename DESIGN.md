@@ -1,6 +1,6 @@
 # SIGNAL
 
-Independent Chamber Group concept 02, 1 October 2026. Read root CHAMBER-DEMO-PLAN.md. Common Ground is already verified and published; Signal is built second, solo.
+Independent corporate concept 02, 1 October 2026. Signal is a fictional brand with an original identity. Read root MOTION-DEMO-PLAN.md. Common Ground is already verified and published; Signal is built second, solo.
 
 Art direction: a confident typographic broadcast. Midnight #111c2a, bright bone #f2f0e5, acid lime #d8f36a, steel blue #647d96. Barlow Condensed is large, authoritative and tight; Manrope handles quiet explanatory type. A woven signal graphic is made from fine parallel SVG curves, not a bitmap effect. Small sector tags and registration rules give the scale context. One carefully cropped conference photograph anchors the abstract pattern in human exchange.
 

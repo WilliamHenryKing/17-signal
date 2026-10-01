@@ -1,6 +1,6 @@
 # Signal profile
 
-New independent corporate motion concept. Source baseline absent. Target: a bold, premium digital identity for the five sectors in the supplied Chamber Group brief. Solo work. Scope and publishing authority: root CHAMBER-DEMO-PLAN.md.
+New independent corporate motion concept. Source baseline absent. Target: a bold, premium digital identity for the five sectors in the supplied Signal brief. Solo work. Scope and publishing authority: root MOTION-DEMO-PLAN.md.
 
 Use Vite/React/TypeScript/GSAP/Tailwind/Bun/Biome/Lightning CSS. No WebGL, video, backend or runtime CDN. Native scroll, scoped motion lifecycle, system and user reduced motion, visible focus, semantic content, static/prerendered HTML. Separate vanilla hero entry and integration documentation.
 

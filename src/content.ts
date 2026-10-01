@@ -49,7 +49,7 @@ export const notes = [
     body: [
       "Clarity begins with choices: who needs to hear this, what matters to them, and what should happen next. A precise message gives those choices a coherent shape.",
       "The strongest communications are rooted in understanding. They make a complex subject approachable without stripping away its substance.",
-      "This is illustrative editorial copy for an independent design concept, not a claim about commissioned Chamber Group work.",
+      "This is illustrative editorial copy for an independent design concept, not a claim about commissioned client work.",
     ],
   },
   {
@@ -60,7 +60,7 @@ export const notes = [
     body: [
       "A well-designed gathering makes it easier for people to contribute. The programme should frame useful questions, leave room for disagreement and connect discussion with action.",
       "The real work continues when the event ends. Clear next steps and meaningful follow-up turn a moment of connection into an ongoing exchange.",
-      "This is an illustrative concept note. The licensed stock photograph does not depict a Chamber Group event.",
+      "This is an illustrative concept note. The licensed stock photograph illustrates the concept rather than a commissioned event.",
     ],
   },
 ] as const;

@@ -1,6 +1,6 @@
 # SIGNAL
 
-**Make your voice matter.** An independent Chamber Group concept combining kinetic typography, a woven signal graphic and a complete corporate homepage.
+**Make your voice matter.** An independent corporate website concept combining kinetic typography, a woven signal graphic and a complete corporate homepage.
 
 [Explore Signal](https://17-signal.williamking.workers.dev) · [Standalone animated hero](https://17-signal.williamking.workers.dev/hero.html) · [Integration guide](HERO-INTEGRATION.md)
 
@@ -10,7 +10,7 @@
 
 Five disciplines, one stronger signal. Oversized Barlow Condensed typography resolves alongside travelling SVG lines and a photographic window into a real gathering. Midnight blue, bone and acid lime give the homepage a confident identity, with a bright manifesto section carrying the idea into the rest of the page.
 
-Signal is the second of two deliberately different responses to the same brief. [Common Ground](https://16-common-ground.williamking.workers.dev) takes a warm, editorial approach; Signal uses poster-scale type, technical linework and a sharper colour contrast. Both are independent concepts, not commissioned client work or official Chamber Group websites. No official brand kit was supplied.
+Signal is the second of two deliberately different responses to the same brief. [Common Ground](https://16-common-ground.williamking.workers.dev) takes a warm, editorial approach; Signal uses poster-scale type, technical linework and a sharper colour contrast. Both use fictional brands and original demonstration identities; neither claims commissioned client work or endorsement.
 
 | The shared direction | Designed for phones |
 |---|---|

@@ -32,15 +32,11 @@ export function Ribbon() {
 export function Hero({ standalone = false }: { standalone?: boolean }) {
   const link = (id: string) => `${standalone ? "/" : ""}#${id}`;
   return (
-    <section className="sg-hero" id="top" aria-label="Introducing Chamber Group">
+    <section className="sg-hero" id="top" aria-label="Introducing Signal">
       <header className="sg-header">
-        <a className="sg-brand" href={link("top")} aria-label="Chamber Group home">
+        <a className="sg-brand" href={link("top")} aria-label="Signal home">
           <SignalMark />
-          <span>
-            CHAMBER
-            <br />
-            GROUP
-          </span>
+          <span>SIGNAL</span>
         </a>
         <nav className="sg-navigation" aria-label="Main navigation">
           <a href={link("group")}>The group</a>
@@ -94,7 +90,7 @@ export function Hero({ standalone = false }: { standalone?: boolean }) {
         </div>
         <div className="sg-hero-art" aria-hidden="true">
           <Ribbon />
-          <span className="sg-art-coordinate">CG / 05 → 01</span>
+          <span className="sg-art-coordinate">SG / 05 → 01</span>
           <span className="sg-art-cross">+</span>
           <div className="sg-image-window">
             <img src="/images/forum.webp" width="1000" height="667" alt="" fetchPriority="high" />

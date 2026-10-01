@@ -1,5 +1,7 @@
 # Verification — Signal
 
+Naming refinement, 1 October 2026: Signal now owns the wordmarks, metadata, accessible names, brief exports and concept copy. The same browser journey and rendered media are regenerated for the renamed build; the live receipt identifies the resulting release.
+
 1 October 2026. Solo implementation and self-review. [Automated browser receipt](browser-report.json). Chrome 154.0.8037.58, Playwright 1.63.0, axe-core 4.13.0. Every named check in the receipt passes, with no runtime errors and no detected WCAG A/AA violations in the recorded full-page, phone and dialog states.
 
 Strict TypeScript, Biome and the production build pass. Browser checks cover 1920×1080, 1440×900, 768×1024, 390×844, 320×740 and 844×390; every viewport remains free of horizontal document overflow. All five capabilities, ArrowLeft/ArrowRight wrapping, Home/End, panel focus, both editorial dialogs, Escape/focus restoration, empty/whitespace validation, selected form values, clipboard, text download, mobile menu, live reduced-motion changes, standalone hero and no-JavaScript content were exercised.

@@ -1,15 +1,15 @@
-# Chamber Group — two motion-led website concepts
+# Corporate motion — two motion-led website concepts
 
-Commissioned 1 October 2026. William requests two impressive, complete demo websites responding to the supplied Chamber Group animated-hero brief, documentation, commits, pushes and live publication. Work is solo and sequential; no subagents. This new commission does not change applications, send messages, or revise projects 01–15.
+Commissioned 1 October 2026. William requests two impressive, complete demo websites responding to the supplied corporate motion animated-hero brief, documentation, commits, pushes and live publication. Work is solo and sequential; no subagents. This new commission does not change applications, send messages, or revise projects 01–15.
 
 ## Interpretation and art direction
 
-Both are independent speculative concepts for Chamber Group, with original provisional visual identities. No branding, fonts, colours, logo files or existing website examples were supplied. No invented client results, endorsements, team biographies or operational contact details. The supplied scope is public affairs, policy, communications, membership organisations and events. All five must appear in the hero and homepage.
+Both are independent speculative concepts for the fictional brands Common Ground and Signal, with original visual identities, type selections and colour systems. No invented client results, endorsements, team biographies or operational contact details. The supplied scope is public affairs, policy, communications, membership organisations and events. All five must appear in the hero and homepage.
 
 | | 16 — COMMON GROUND | 17 — SIGNAL |
 |---|---|---|
 | Visual world | Warm ivory, ink, vermilion, lilac; generous editorial typography | Midnight blue, bone, electric lime; oversized condensed type and technical linework |
-| Hero idea | Five perspectives assemble into a sculptural open circular chamber, framing real architectural photography | Five signal paths converge through a moving typographic field into one clear voice |
+| Hero idea | Five perspectives assemble into a sculptural open circular form, framing real architectural photography | Five signal paths converge through a moving typographic field into one clear voice |
 | Message | Different perspectives. Shared progress. | Make your voice matter. |
 | Homepage transition | The circular mark and rule system carry into an editorial introduction and five-discipline explorer | Signal lines carry into a bright strategy statement, interactive capability index and image-led perspectives |
 | Interaction | Discipline explorer, full editorial notes, local project-brief builder | Keyboard-operable capability selector, editorial notes, local project-brief builder |
@@ -41,3 +41,7 @@ Both concepts are complete, committed, pushed to public GitHub repositories and 
 - **17 SIGNAL:** https://17-signal.williamking.workers.dev — application `25f1911a080e3b25faeeba592d2053e34d1dbefd`, Cloudflare version `9ced8745-638b-40b3-b87a-57acfd995410`; 52 browser checks, 17 public file hashes matched.
 
 Each has zero axe violations in three recorded states, a standalone hero, correct live HTTP behavior and desktop/phone verification. Both were visually self-reviewed and revised. User/client approval is not claimed. See the shared delivery record and each public repository's `docs/RELEASE.md`, `docs/VERIFICATION.md` and `HERO-INTEGRATION.md`. Documentation commits after the application revisions preserve the exact deployed release identity.
+
+## Naming refinement — 1 October 2026
+
+The user requires independent naming throughout: Common Ground and Signal. Update page identity, metadata, accessible names, brief exports, credits, repository descriptions and rendered media. Recheck each site and publish sequentially before adding the two live links to the existing Upwork proposal.
