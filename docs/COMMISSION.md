@@ -33,6 +33,11 @@ Ports: 16 dev 4526 / preview 4626; 17 dev 4527 / preview 4627. Loopback only, st
 
 Self-review is not client approval. Browser emulation is not a physical phone test. Sampled motion frames are not uninterrupted viewing. Final judgement should be grounded in visible results and working interactions, not a passing build alone.
 
-## Current checkpoint
+## Final checkpoint — 1 October 2026
 
-16 is complete, public and live: https://16-common-ground.williamking.workers.dev. Application commit `71a73fad0e6f60f81c3803c11f61caae0c171443`; Cloudflare version `b2ecce47-3c29-43ea-9e07-4012d1fdceae`. All 47 browser checks pass, three recorded accessibility states are clear, all fifteen public files match the build and live desktop/phone checks pass. Public main `d0d9161` adds the release receipt. 17 creative production now begins.
+Both concepts are complete, committed, pushed to public GitHub repositories and live on Cloudflare. Common Ground completed its local and live checks before Signal creative production began. No subagents were used.
+
+- **16 COMMON GROUND:** https://16-common-ground.williamking.workers.dev — application `71a73fad0e6f60f81c3803c11f61caae0c171443`, Cloudflare version `b2ecce47-3c29-43ea-9e07-4012d1fdceae`; 47 browser checks, 15 public file hashes matched.
+- **17 SIGNAL:** https://17-signal.williamking.workers.dev — application `25f1911a080e3b25faeeba592d2053e34d1dbefd`, Cloudflare version `9ced8745-638b-40b3-b87a-57acfd995410`; 52 browser checks, 17 public file hashes matched.
+
+Each has zero axe violations in three recorded states, a standalone hero, correct live HTTP behavior and desktop/phone verification. Both were visually self-reviewed and revised. User/client approval is not claimed. See the shared delivery record and each public repository's `docs/RELEASE.md`, `docs/VERIFICATION.md` and `HERO-INTEGRATION.md`. Documentation commits after the application revisions preserve the exact deployed release identity.

@@ -48,7 +48,7 @@ CSS `noDescendingSpecificity` is disabled for component/responsive selectors; ot
 
 ## Evidence and credits
 
-[Design](DESIGN.md) · [Profile](docs/visual/PROJECT_PROFILE.md) · [Verification](docs/VERIFICATION.md) · [Release](docs/RELEASE.md) · [Assets](assets.manifest.json)
+[Two-concept delivery](docs/DELIVERY.md) · [Design](DESIGN.md) · [Profile](docs/visual/PROJECT_PROFILE.md) · [Verification](docs/VERIFICATION.md) · [Release](docs/RELEASE.md) · [Assets](assets.manifest.json)
 
 The browser review covers six viewports, the five capability states, keyboard focus, dialogs, planner validation/copy/download, motion controls, live preference changes, no-JavaScript content and the standalone hero. Visual review includes sampled arrival states and the complete page sections. This is implementer self-review, not client acceptance, an independent review or physical-phone certification.
 
